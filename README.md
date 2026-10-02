@@ -2,7 +2,7 @@
 
 # MiniAT v2
 
-Thanks for purchasing a product from CoopersVE! This page covers connecting to your MiniAT's WiFi, managing its animations, and caring for it.
+This is the repository for my MiniAT products! It includes a vast array of 128x128 Gifs for use with Mono Oled Screens. Feel free to use these in your own projects if you wish!
 
 ## Basics
 - **Tap** the button once to cycle to the next animation.
